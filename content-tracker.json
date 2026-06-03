@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-03T22:03:48.545964",
+  "lastUpdated": "2026-06-03T22:11:30.601266",
   "currentPhase": "phase1",
-  "currentTask": "A-01",
+  "currentTask": "A-03",
   "totalTasks": 113,
-  "completedCount": 6,
+  "completedCount": 8,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -59,15 +59,17 @@
       "phase": "phase1",
       "title": "Agent Experience vs UX Design: What's Actually Different?",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-02-agent-experience-vs-ux-design.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-02-agent-experience-vs-ux-design.mdx",
+      "completedAt": "2026-06-03T22:11:30.601266"
     },
     "A-03": {
       "phase": "phase1",
       "title": "What is Agentic AI? A Plain-English Guide for Designers",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-03-what-is-agentic-ai.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-03-what-is-agentic-ai.mdx",
+      "completedAt": "2026-06-03T22:11:30.601266"
     },
     "A-04": {
       "phase": "phase1",
@@ -790,7 +792,7 @@
       "total": 5
     },
     "phase1": {
-      "completed": 1,
+      "completed": 3,
       "total": 10
     },
     "phase2": {
