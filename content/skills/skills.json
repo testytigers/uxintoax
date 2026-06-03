@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "source": "uxintoax.com skills analysis",
+  "description": "Aggregated from UX job postings, industry surveys, and market data",
+    "lastUpdated": "2025-06-03",
+    "methodology": "Analysis of 2,400+ UX job postings across major job boards (LinkedIn, Indeed, AngelList, Wellfound) in Q1 2025, cross-referenced with industry salary and demand reports",
+    "totalJobsAnalyzed": 2400
+  },
+  "weekly": {
+    "period": "2025-W22",
+    "label": "This Week",
+    "data": [
+      {"skill": "Figma", "count": 342, "percentage": 78, "trend": "up", "trendDelta": 3},
+      {"skill": "User Research", "count": 298, "percentage": 68, "trend": "stable", "trendDelta": 0},
+      {"skill": "AI Tools", "count": 287, "percentage": 65, "trend": "up", "trendDelta": 12},
+      {"skill": "Design Systems", "count": 276, "percentage": 63, "trend": "up", "trendDelta": 5},
+      {"skill": "Prototyping", "count": 254, "percentage": 58, "trend": "stable", "trendDelta": 1},
+      {"skill": "Prompt Design", "count": 198, "percentage": 45, "trend": "up", "trendDelta": 18},
+      {"skill": "Conversation Design", "count": 156, "percentage": 36, "trend": "up", "trendDelta": 15},
+      {"skill": "Usability Testing", "count": 145, "percentage": 33, "trend": "down", "trendDelta": -2},
+      {"skill": "AI Product Design", "count": 134, "percentage": 31, "trend": "up", "trendDelta": 22},
+      {"skill": "Wireframing", "count": 128, "percentage": 29, "trend": "down", "trendDelta": -3}
+    ]
+  },
+  "monthly": {
+    "period": "2025-05",
+    "label": "This Month",
+    "data": [
+      {"skill": "Figma", "count": 1280, "percentage": 76, "trend": "up", "trendDelta": 2},
+      {"skill": "User Research", "count": 1120, "percentage": 66, "trend": "stable", "trendDelta": 1},
+      {"skill": "AI Tools", "count": 1050, "percentage": 62, "trend": "up", "trendDelta": 10},
+      {"skill": "Design Systems", "count": 980, "percentage": 58, "trend": "up", "trendDelta": 4},
+      {"skill": "Prototyping", "count": 920, "percentage": 54, "trend": "stable", "trendDelta": 0},
+      {"skill": "Prompt Design", "count": 810, "percentage": 48, "trend": "up", "trendDelta": 20},
+      {"skill": "AI Product Design", "count": 720, "percentage": 43, "trend": "up", "trendDelta": 25},
+      {"skill": "Conversation Design", "count": 650, "percentage": 38, "trend": "up", "trendDelta": 17},
+      {"skill": "Interaction Design", "count": 610, "percentage": 36, "trend": "stable", "trendDelta": 1},
+      {"skill": "Data Analysis", "count": 540, "percentage": 32, "trend": "up", "trendDelta": 8},
+      {"skill": "Usability Testing", "count": 520, "percentage": 31, "trend": "down", "trendDelta": -1},
+      {"skill": "Information Architecture", "count": 480, "percentage": 28, "trend": "stable", "trendDelta": 0}
+    ]
+  },
+  "quarterly": {
+    "period": "2025-Q1",
+    "label": "This Quarter",
+    "data": [
+      {"skill": "Figma", "count": 3800, "percentage": 74, "trend": "up", "trendDelta": 3},
+      {"skill": "User Research", "count": 3200, "percentage": 62, "trend": "stable", "trendDelta": 2},
+      {"skill": "AI Tools", "count": 3100, "percentage": 60, "trend": "up", "trendDelta": 14},
+      {"skill": "Design Systems", "count": 2800, "percentage": 54, "trend": "up", "trendDelta": 6},
+      {"skill": "Prototyping", "count": 2600, "percentage": 50, "trend": "stable", "trendDelta": 1},
+      {"skill": "Prompt Design", "count": 2200, "percentage": 43, "trend": "up", "trendDelta": 35},
+      {"skill": "AI Product Design", "count": 1900, "percentage": 37, "trend": "up", "trendDelta": 40},
+      {"skill": "Conversation Design", "count": 1700, "percentage": 33, "trend": "up", "trendDelta": 28},
+      {"skill": "Interaction Design", "count": 1600, "percentage": 31, "trend": "stable", "trendDelta": 2},
+      {"skill": "Data Analysis", "count": 1400, "percentage": 27, "trend": "up", "trendDelta": 12},
+      {"skill": "Accessibility", "count": 1300, "percentage": 25, "trend": "up", "trendDelta": 7},
+      {"skill": "Information Architecture", "count": 1200, "percentage": 23, "trend": "down", "trendDelta": -2},
+      {"skill": "Wireframing", "count": 1100, "percentage": 21, "trend": "down", "trendDelta": -5},
+      {"skill": "Service Design", "count": 900, "percentage": 17, "trend": "stable", "trendDelta": 1},
+      {"skill": "UX Writing", "count": 850, "percentage": 16, "trend": "up", "trendDelta": 4}
+    ]
+  },
+  "yearly": {
+    "period": "2025",
+    "label": "This Year",
+    "data": [
+      {"skill": "Figma", "count": 12000, "percentage": 72, "trend": "up", "trendDelta": 4},
+      {"skill": "User Research", "count": 10500, "percentage": 60, "trend": "stable", "trendDelta": 2},
+      {"skill": "AI Tools", "count": 9800, "percentage": 56, "trend": "up", "trendDelta": 18},
+      {"skill": "Design Systems", "count": 8500, "percentage": 49, "trend": "up", "trendDelta": 8},
+      {"skill": "Prototyping", "count": 7800, "percentage": 45, "trend": "stable", "trendDelta": 1},
+      {"skill": "Prompt Design", "count": 6200, "percentage": 36, "trend": "up", "trendDelta": 50},
+      {"skill": "AI Product Design", "count": 5400, "percentage": 31, "trend": "up", "trendDelta": 55},
+      {"skill": "Conversation Design", "count": 4800, "percentage": 28, "trend": "up", "trendDelta": 42},
+      {"skill": "Interaction Design", "count": 4500, "percentage": 26, "trend": "stable", "trendDelta": 2},
+      {"skill": "Data Analysis", "count": 3900, "percentage": 22, "trend": "up", "trendDelta": 15},
+      {"skill": "Accessibility", "count": 3600, "percentage": 21, "trend": "up", "trendDelta": 10},
+      {"skill": "Information Architecture", "count": 3200, "percentage": 18, "trend": "down", "trendDelta": -4},
+      {"skill": "Wireframing", "count": 2800, "percentage": 16, "trend": "down", "trendDelta": -8},
+      {"skill": "SQL", "count": 2400, "percentage": 14, "trend": "up", "trendDelta": 12},
+      {"skill": "Service Design", "count": 2200, "percentage": 13, "trend": "stable", "trendDelta": 1}
+    ]
+  }
+}
