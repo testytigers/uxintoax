@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-03T20:54:41.531184",
+  "lastUpdated": "2026-06-03T21:00:28.882714",
   "currentPhase": "foundation",
-  "currentTask": "F-03",
+  "currentTask": "F-04",
   "totalTasks": 113,
-  "completedCount": 3,
+  "completedCount": 4,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -13,7 +13,7 @@
       "type": "document",
       "status": "completed",
       "outputPath": "docs/STYLE_GUIDE.md",
-      "completedAt": "2026-06-03T20:54:41.531184"
+      "completedAt": "2026-06-03T21:00:28.882714"
     },
     "F-02": {
       "phase": "foundation",
@@ -21,7 +21,7 @@
       "type": "template",
       "status": "completed",
       "outputPath": "docs/CONTENT_BRIEF_TEMPLATE.md",
-      "completedAt": "2026-06-03T20:54:41.531184"
+      "completedAt": "2026-06-03T21:00:28.882714"
     },
     "F-03": {
       "phase": "foundation",
@@ -29,14 +29,15 @@
       "type": "mdx",
       "status": "completed",
       "outputPath": "src/pages/what-is-ax.mdx",
-      "completedAt": "2026-06-03T20:54:41.531184"
+      "completedAt": "2026-06-03T21:00:28.882714"
     },
     "F-04": {
       "phase": "foundation",
       "title": "Write 5 Seed Job Listings",
       "type": "json",
-      "status": "pending",
-      "outputPath": "content/jobs/"
+      "status": "completed",
+      "outputPath": "content/jobs/",
+      "completedAt": "2026-06-03T21:00:28.882714"
     },
     "F-05": {
       "phase": "foundation",
@@ -783,7 +784,7 @@
   },
   "phaseProgress": {
     "foundation": {
-      "completed": 3,
+      "completed": 4,
       "total": 5
     },
     "phase1": {

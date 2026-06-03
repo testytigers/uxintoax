@@ -1,0 +1,37 @@
+{
+  "id": "job-003",
+  "title": "UX Researcher — AI/Agent Products",
+  "company": "Relay Labs",
+  "location": "Remote",
+  "workType": "remote",
+  "experienceLevel": "mid",
+  "roleType": "ux-researcher",
+  "salary": "$120,000–$150,000",
+  "skills": ["User Research", "AI Products", "Conversation Analysis", "Usability Testing", "Data Analysis", "Prototype Testing", "Interviews", "Surveys"],
+  "description": "Relay Labs is building real-time AI voice agents for live customer interactions — think AI-powered call centers that actually sound natural. We need a UX researcher who understands how to evaluate and improve AI-driven conversations at scale.",
+  "responsibilities": [
+    "Design and execute research studies for our AI voice agents — including conversation quality assessments, trust calibration studies, and task completion analysis",
+    "Develop evaluation frameworks for measuring agent performance from a user experience perspective",
+    "Conduct user interviews and moderated testing sessions to understand how people interact with autonomous voice agents",
+    "Analyze conversation logs to identify patterns in agent failures, user frustrations, and trust signals",
+    "Partner with the product team to translate research findings into specific agent behavior improvements",
+    "Build a research repository of AI conversation insights that the entire team can reference"
+  ],
+  "requirements": [
+    "3+ years of UX research experience, with at least 1 year focused on AI, voice, or conversational products",
+    "Strong qualitative and quantitative research skills — you're comfortable with both interviews and conversation analytics",
+    "Experience evaluating AI systems — understanding of concepts like hallucination rates, response quality, and user trust",
+    "Excellent analytical thinking — you can synthesize patterns from large sets of conversation data",
+    "Clear, actionable communication — you translate research findings into concrete design recommendations",
+    "Familiarity with research tools (Dovetail, UserTesting, Lookback) and conversation analytics platforms"
+  ],
+  "niceToHave": [
+    "Background in linguistics, human-computer interaction, or cognitive science",
+    "Experience with voice UX research specifically",
+    "Familiarity with LLM evaluation methods and metrics",
+    "Publications or presentations on AI/UX research"
+  ],
+  "applyUrl": "https://relay-labs.com/careers/ux-researcher-ai",
+  "postedAt": "2025-06-01",
+  "featured": false
+}

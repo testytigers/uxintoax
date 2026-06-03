@@ -1,0 +1,37 @@
+{
+  "id": "job-002",
+  "title": "AX Designer — Conversational AI",
+  "company": "Meridian Systems",
+  "location": "San Francisco, CA (Hybrid — 2 days/week)",
+  "workType": "hybrid",
+  "experienceLevel": "mid",
+  "roleType": "ax-designer",
+  "salary": "$130,000–$160,000",
+  "skills": ["Conversation Design", "Prompt Design", "User Research", "Interaction Design", "AI Products", "Prototyping", "Design Systems"],
+  "description": "Meridian Systems builds enterprise AI assistants for customer support teams. Our agents handle complex support requests by pulling data from multiple systems, reasoning through solutions, and delivering natural-language responses. We're hiring an AX Designer to own the experience layer for these agents.",
+  "responsibilities": [
+    "Design the conversational experience for our enterprise AI assistant — including tone, pacing, escalation patterns, and error recovery",
+    "Define agent behavior guidelines: when the agent should ask clarifying questions, when to deliver partial results, and when to escalate",
+    "Create prompt templates and output quality rubrics for our agent team",
+    "Conduct conversation audits — analyzing agent-user interactions to identify patterns, failures, and opportunities",
+    "Collaborate with product and engineering to ship agent experience improvements on a weekly cadence",
+    "Mentor junior designers on AX design principles and AI product thinking"
+  ],
+  "requirements": [
+    "3+ years of UX or interaction design experience, with hands-on work on AI or conversational products",
+    "Deep understanding of conversation design principles — turn-taking, error recovery, tone management, and escalation",
+    "Experience designing for AI uncertainty — users need to know when the agent is confident vs. guessing",
+    "Proficiency with Figma, prototyping, and research tools",
+    "Ability to write clear, structured prompt instructions and evaluation criteria",
+    "Comfortable working in a fast-paced environment where agent behavior is iterated weekly"
+  ],
+  "niceToHave": [
+    "Published conversation design patterns or frameworks",
+    "Experience with enterprise B2B SaaS products",
+    "Understanding of NLU/LLM capabilities and limitations",
+    "Background in customer support or experience design"
+  ],
+  "applyUrl": "https://meridian-systems.com/careers/ax-designer",
+  "postedAt": "2025-06-02",
+  "featured": false
+}
