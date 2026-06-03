@@ -1,0 +1,840 @@
+{
+  "project": "uxintoax.com",
+  "lastUpdated": "2026-06-03T20:13:15.696013",
+  "currentPhase": "foundation",
+  "currentTask": "F-01",
+  "totalTasks": 113,
+  "completedCount": 1,
+  "inProgress": null,
+  "tasks": {
+    "F-01": {
+      "phase": "foundation",
+      "title": "Build the Master Style Guide",
+      "type": "document",
+      "status": "completed",
+      "outputPath": "docs/STYLE_GUIDE.md",
+      "completedAt": "2026-06-03T20:13:15.696013"
+    },
+    "F-02": {
+      "phase": "foundation",
+      "title": "Build the Content Brief Template",
+      "type": "template",
+      "status": "pending",
+      "outputPath": "docs/CONTENT_BRIEF_TEMPLATE.md"
+    },
+    "F-03": {
+      "phase": "foundation",
+      "title": "Write the /what-is-ax Pillar Page",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/what-is-ax.mdx"
+    },
+    "F-04": {
+      "phase": "foundation",
+      "title": "Write 5 Seed Job Listings",
+      "type": "json",
+      "status": "pending",
+      "outputPath": "content/jobs/"
+    },
+    "F-05": {
+      "phase": "foundation",
+      "title": "Populate skills.json with Real Data",
+      "type": "json",
+      "status": "pending",
+      "outputPath": "content/skills/skills.json"
+    },
+    "A-01": {
+      "phase": "phase1",
+      "title": "What is Agent Experience Design? The Complete Definition",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-01-what-is-agent-experience-design.mdx"
+    },
+    "A-02": {
+      "phase": "phase1",
+      "title": "Agent Experience vs UX Design: What's Actually Different?",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-02-agent-experience-vs-ux-design.mdx"
+    },
+    "A-03": {
+      "phase": "phase1",
+      "title": "What is Agentic AI? A Plain-English Guide for Designers",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-03-what-is-agentic-ai.mdx"
+    },
+    "A-04": {
+      "phase": "phase1",
+      "title": "What Does an AX Designer Actually Do? (Role Breakdown)",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-04-what-does-an-ax-designer-do.mdx"
+    },
+    "A-05": {
+      "phase": "phase1",
+      "title": "Is UX Design Being Replaced by AI? The Honest Answer",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-05-is-ux-design-being-replaced-by-ai.mdx"
+    },
+    "A-06": {
+      "phase": "phase1",
+      "title": "What is Prompt Design? And Why UX Designers Should Care",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-06-what-is-prompt-design.mdx"
+    },
+    "A-07": {
+      "phase": "phase1",
+      "title": "What is Conversation Design? A Guide for UX Designers",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-07-what-is-conversation-design.mdx"
+    },
+    "A-08": {
+      "phase": "phase1",
+      "title": "UX Designer vs AI Product Designer: What's the Difference?",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-08-ux-designer-vs-ai-product-designer.mdx"
+    },
+    "A-09": {
+      "phase": "phase1",
+      "title": "What is Human-Agent Interaction? The Designer's Guide",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-09-human-agent-interaction.mdx"
+    },
+    "A-10": {
+      "phase": "phase1",
+      "title": "How to Become an AX Designer in 2025 (Step-by-Step)",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-10-how-to-become-an-ax-designer.mdx"
+    },
+    "A-11": {
+      "phase": "phase2",
+      "title": "Will AI Replace UX Designers? The Data-Driven Answer (2025)",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-11-will-ai-replace-ux-designers.mdx"
+    },
+    "A-12": {
+      "phase": "phase2",
+      "title": "The Complete UX to AX Career Transition Guide (2025)",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-12-ux-to-ax-career-transition.mdx"
+    },
+    "A-13": {
+      "phase": "phase2",
+      "title": "The Best AI Tools for UX Designers in 2025 (Tested & Ranked)",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-13-best-ai-tools-for-ux-designers.mdx"
+    },
+    "A-14": {
+      "phase": "phase2",
+      "title": "Top UX Design Skills Employers Want in 2025 (Data Analysis)",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-14-top-ux-skills-employers-want.mdx"
+    },
+    "A-15": {
+      "phase": "phase2",
+      "title": "The Future of UX Design: 10 Predictions for 2025-2030",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-15-future-of-ux-design.mdx"
+    },
+    "A-16": {
+      "phase": "phase3",
+      "title": "Figma AI Features Review",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-16-figma-ai-review.mdx"
+    },
+    "A-17": {
+      "phase": "phase3",
+      "title": "Claude for UX Designers: Complete Guide",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-17-claude-for-ux-designers.mdx"
+    },
+    "A-18": {
+      "phase": "phase3",
+      "title": "Midjourney for UX: How to Use It in Real Projects",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-18-midjourney-for-ux.mdx"
+    },
+    "A-19": {
+      "phase": "phase3",
+      "title": "Framer AI vs Webflow: Which is Better for Designers?",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-19-framer-vs-webflow.mdx"
+    },
+    "A-20": {
+      "phase": "phase3",
+      "title": "Maze vs UserTesting: AI-Powered Research Tools Compared",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-20-maze-vs-usertesting.mdx"
+    },
+    "A-21": {
+      "phase": "phase3",
+      "title": "Notion AI for UX Documentation",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-21-notion-ai-for-ux.mdx"
+    },
+    "A-22": {
+      "phase": "phase3",
+      "title": "GitHub Copilot for Designers Who Code",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-22-github-copilot-for-designers.mdx"
+    },
+    "A-23": {
+      "phase": "phase3",
+      "title": "Uizard Review: Can AI Really Generate Wireframes?",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-23-uizard-review.mdx"
+    },
+    "A-24": {
+      "phase": "phase3",
+      "title": "ChatGPT for UX Research: Prompts That Actually Work",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-24-chatgpt-for-ux-research.mdx"
+    },
+    "A-25": {
+      "phase": "phase3",
+      "title": "Attention Insight Review: AI Heatmaps Before You Launch",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-25-attention-insight-review.mdx"
+    },
+    "A-26": {
+      "phase": "phase4",
+      "title": "AX Designer Salary in 2025: What You Can Actually Earn",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-26-ax-designer-salary.mdx"
+    },
+    "A-27": {
+      "phase": "phase4",
+      "title": "UX Designer Salary in the AI Era",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-27-ux-salary-ai-era.mdx"
+    },
+    "A-28": {
+      "phase": "phase4",
+      "title": "How to Redesign Your UX Portfolio for the AX Era",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-28-ux-portfolio-ax-era.mdx"
+    },
+    "A-29": {
+      "phase": "phase4",
+      "title": "How to Write a LinkedIn Profile as an AX Designer",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-29-linkedin-profile-ax.mdx"
+    },
+    "A-30": {
+      "phase": "phase4",
+      "title": "UX Designer Interview Questions for AI Companies",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-30-interview-questions-ai.mdx"
+    },
+    "A-31": {
+      "phase": "phase4",
+      "title": "How to Get Your First AX Design Job With No Experience",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-31-first-ax-job-no-experience.mdx"
+    },
+    "A-32": {
+      "phase": "phase4",
+      "title": "Remote UX Design Jobs: Where to Find the Best Ones in 2025",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-32-remote-ux-jobs.mdx"
+    },
+    "A-33": {
+      "phase": "phase4",
+      "title": "From Junior to Senior UX Designer in the AI Era",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-33-junior-to-senior-ux.mdx"
+    },
+    "A-34": {
+      "phase": "phase4",
+      "title": "Freelance UX Designer in 2025: How AI Changes Everything",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-34-freelance-ux-ai.mdx"
+    },
+    "A-35": {
+      "phase": "phase4",
+      "title": "UX Designer CV Template for AI-Era Jobs",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-35-ux-cv-template.mdx"
+    },
+    "A-36": {
+      "phase": "phase5",
+      "title": "How ChatGPT's Interface Is Actually Terrible UX",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-36-chatgpt-ux-teardown.mdx"
+    },
+    "A-37": {
+      "phase": "phase5",
+      "title": "Perplexity AI UX Teardown",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-37-perplexity-ux-teardown.mdx"
+    },
+    "A-38": {
+      "phase": "phase5",
+      "title": "Claude vs ChatGPT: A UX Designer's Interface Comparison",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-38-claude-vs-chatgpt-ux.mdx"
+    },
+    "A-39": {
+      "phase": "phase5",
+      "title": "How Notion AI Was Integrated Without Ruining the UX",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-39-notion-ai-ux-case-study.mdx"
+    },
+    "A-40": {
+      "phase": "phase5",
+      "title": "Apple Intelligence UX: What Designers Can Learn",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-40-apple-intelligence-ux.mdx"
+    },
+    "A-41": {
+      "phase": "phase5",
+      "title": "Linear UI Teardown: Designed for Humans, Not Algorithms",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-41-linear-ui-teardown.mdx"
+    },
+    "A-42": {
+      "phase": "phase5",
+      "title": "Designing an AI Onboarding Flow: 5 Real Examples",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-42-ai-onboarding-flow.mdx"
+    },
+    "A-43": {
+      "phase": "phase5",
+      "title": "Error Messages in AI Products: Who Gets It Right",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-43-ai-error-messages-ux.mdx"
+    },
+    "A-44": {
+      "phase": "phase5",
+      "title": "How Figma Handles AI Feature Integration",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-44-figma-ai-ux-audit.mdx"
+    },
+    "A-45": {
+      "phase": "phase5",
+      "title": "Copilot in Microsoft 365: A UX Designer's Review",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-45-microsoft-copilot-ux-review.mdx"
+    },
+    "A-46": {
+      "phase": "phase6",
+      "title": "The AX Designer Skill Stack: Everything You Need in 2025",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-46-ax-skill-stack.mdx"
+    },
+    "A-47": {
+      "phase": "phase6",
+      "title": "Prompt Design 101: The UX Designer's Starter Guide",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-47-prompt-design-101.mdx"
+    },
+    "A-48": {
+      "phase": "phase6",
+      "title": "How to Learn AI Without a Tech Background",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-48-learn-ai-for-designers.mdx"
+    },
+    "A-49": {
+      "phase": "phase6",
+      "title": "Design Systems in the AI Era",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-49-design-systems-ai-era.mdx"
+    },
+    "A-50": {
+      "phase": "phase6",
+      "title": "UX Research in 2025: How AI Is Changing the Process",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-50-ux-research-ai.mdx"
+    },
+    "A-51": {
+      "phase": "phase6",
+      "title": "Information Architecture for AI Products",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-51-ia-ai-products.mdx"
+    },
+    "A-52": {
+      "phase": "phase6",
+      "title": "Accessibility in AI Interfaces",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-52-ai-accessibility.mdx"
+    },
+    "A-53": {
+      "phase": "phase6",
+      "title": "How to Write UX Copy for AI Products",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-53-ux-copy-ai.mdx"
+    },
+    "A-54": {
+      "phase": "phase6",
+      "title": "Motion Design for AI Interfaces",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-54-motion-design-ai.mdx"
+    },
+    "A-55": {
+      "phase": "phase6",
+      "title": "Data Visualization for Non-Data Designers",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-55-data-viz-for-designers.mdx"
+    },
+    "A-56": {
+      "phase": "phase7",
+      "title": "UX Design Job Market Report: Q2 2025 Data Analysis",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-56-job-market-q2-2025.mdx"
+    },
+    "A-57": {
+      "phase": "phase7",
+      "title": "Most In-Demand UX Skills: June 2025 Data",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-57-top-skills-june-2025.mdx"
+    },
+    "A-58": {
+      "phase": "phase7",
+      "title": "AX Designer Salary Report 2025: Global Data",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-58-ax-salary-global-2025.mdx"
+    },
+    "A-59": {
+      "phase": "phase7",
+      "title": "Remote UX Jobs vs On-Site: What the Data Says in 2025",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-59-remote-vs-onsite-data.mdx"
+    },
+    "A-60": {
+      "phase": "phase7",
+      "title": "Which Cities Are Hiring the Most UX Designers?",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-60-ux-jobs-by-city.mdx"
+    },
+    "A-61": {
+      "phase": "phase8",
+      "title": "The 5 Principles of Agent Experience Design",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-61-ax-principles.mdx"
+    },
+    "A-62": {
+      "phase": "phase8",
+      "title": "Agent Behavior Design",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-62-agent-behavior-design.mdx"
+    },
+    "A-63": {
+      "phase": "phase8",
+      "title": "Trust Design for AI Products",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-63-trust-design-ai.mdx"
+    },
+    "A-64": {
+      "phase": "phase8",
+      "title": "Designing for AI Uncertainty",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-64-ai-uncertainty.mdx"
+    },
+    "A-65": {
+      "phase": "phase8",
+      "title": "The AX Design Process",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-65-ax-design-process.mdx"
+    },
+    "A-66": {
+      "phase": "phase8",
+      "title": "Designing AI Agent Personas",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-66-ai-agent-personas.mdx"
+    },
+    "A-67": {
+      "phase": "phase8",
+      "title": "The Ethics of AX Design",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-67-ax-design-ethics.mdx"
+    },
+    "A-68": {
+      "phase": "phase8",
+      "title": "Feedback Loops in Agent Interfaces",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-68-feedback-loops-ai.mdx"
+    },
+    "A-69": {
+      "phase": "phase8",
+      "title": "Multimodal UX: Voice, Text, and Vision Agents",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-69-multimodal-ux.mdx"
+    },
+    "A-70": {
+      "phase": "phase8",
+      "title": "The AX Design Manifesto",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-70-ax-design-manifesto.mdx"
+    },
+    "A-71": {
+      "phase": "phase9",
+      "title": "UX Designer vs Product Designer: Which Role Has More AI Upside?",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-71-ux-vs-product-designer.mdx"
+    },
+    "A-72": {
+      "phase": "phase9",
+      "title": "Figma vs Framer in 2025",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-72-figma-vs-framer.mdx"
+    },
+    "A-73": {
+      "phase": "phase9",
+      "title": "ChatGPT vs Claude for UX Work",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-73-chatgpt-vs-claude-ux.mdx"
+    },
+    "A-74": {
+      "phase": "phase9",
+      "title": "UX Bootcamp vs Self-Taught for AX",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-74-bootcamp-vs-self-taught.mdx"
+    },
+    "A-75": {
+      "phase": "phase9",
+      "title": "Figma vs Sketch vs Adobe XD in 2025?",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-75-figma-vs-sketch-vs-xd.mdx"
+    },
+    "A-76": {
+      "phase": "phase9",
+      "title": "UX Research vs UX Design: Which Career Has More AI Upside?",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-76-research-vs-design.mdx"
+    },
+    "A-77": {
+      "phase": "phase9",
+      "title": "Agency UX vs In-House UX",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-77-agency-vs-inhouse.mdx"
+    },
+    "A-78": {
+      "phase": "phase9",
+      "title": "Startup UX vs Enterprise UX",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-78-startup-vs-enterprise.mdx"
+    },
+    "A-79": {
+      "phase": "phase9",
+      "title": "Notion vs Linear for UX Team PM",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-79-notion-vs-linear.mdx"
+    },
+    "A-80": {
+      "phase": "phase9",
+      "title": "Maze vs Hotjar vs FullStory",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-80-maze-vs-hotjar-vs-fullstory.mdx"
+    },
+    "A-81": {
+      "phase": "phase10",
+      "title": "10 UX Design Trends That AI Is Accelerating in 2025",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-81-ux-trends-ai-2025.mdx"
+    },
+    "A-82": {
+      "phase": "phase10",
+      "title": "15 AI Prompts Every UX Designer Should Save",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-82-ai-prompts-ux.mdx"
+    },
+    "A-83": {
+      "phase": "phase10",
+      "title": "10 Signs Your UX Career Is Ready for the AX Transition",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-83-signs-ax-ready.mdx"
+    },
+    "A-84": {
+      "phase": "phase10",
+      "title": "7 UX Design Patterns That Break in AI Interfaces",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-84-ux-patterns-break-ai.mdx"
+    },
+    "A-85": {
+      "phase": "phase10",
+      "title": "12 Free AI Tools UX Designers Should Know About",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-85-free-ai-tools-ux.mdx"
+    },
+    "A-86": {
+      "phase": "phase10",
+      "title": "8 AX Design Projects to Add to Your Portfolio",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-86-ax-portfolio-projects.mdx"
+    },
+    "A-87": {
+      "phase": "phase10",
+      "title": "10 Must-Read Books for UX Designers Entering the AI Era",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-87-ux-ai-books.mdx"
+    },
+    "A-88": {
+      "phase": "phase10",
+      "title": "15 UX Design YouTube Channels Worth Your Time in 2025",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-88-ux-youtube-channels.mdx"
+    },
+    "A-89": {
+      "phase": "phase10",
+      "title": "10 UX Design Newsletters Every AX Designer Should Subscribe To",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-89-ux-newsletters.mdx"
+    },
+    "A-90": {
+      "phase": "phase10",
+      "title": "7 Ways AI Is Making UX Research Faster",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-90-ai-ux-research-faster.mdx"
+    },
+    "A-91": {
+      "phase": "phase11",
+      "title": "Weekly Digest Template",
+      "type": "template",
+      "status": "pending",
+      "outputPath": "docs/WEEKLY_DIGEST_TEMPLATE.md"
+    },
+    "A-92": {
+      "phase": "phase11",
+      "title": "First 5 Weekly Digests",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/digests/"
+    },
+    "A-93": {
+      "phase": "phase12",
+      "title": "How to Charge More as a UX Designer by Adding AI",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-93-charge-more-ai.mdx"
+    },
+    "A-94": {
+      "phase": "phase12",
+      "title": "The AX Design Course Buyer's Guide",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-94-ax-course-buyers-guide.mdx"
+    },
+    "A-95": {
+      "phase": "phase12",
+      "title": "How to Build an AI UX Audit Service",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-95-ux-audit-service.mdx"
+    },
+    "A-96": {
+      "phase": "phase12",
+      "title": "The AX Design Community",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-96-ax-community.mdx"
+    },
+    "A-97": {
+      "phase": "phase12",
+      "title": "How to Run an AI Design Sprint in 5 Days",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-97-ai-design-sprint.mdx"
+    },
+    "A-98": {
+      "phase": "phase12",
+      "title": "Building a Personal Brand as an AX Designer",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-98-personal-brand-ax.mdx"
+    },
+    "A-99": {
+      "phase": "phase12",
+      "title": "How to Use AI to Do Your UX Work Faster",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-99-ai-ux-workflow.mdx"
+    },
+    "A-100": {
+      "phase": "phase12",
+      "title": "The uxintoax.com Manifesto: Why We Built This Platform",
+      "type": "mdx",
+      "status": "pending",
+      "outputPath": "src/pages/a-100-uxintoax-manifesto.mdx"
+    },
+    "X-01": {
+      "phase": "nonarticle",
+      "title": "Write all UI microcopy",
+      "type": "document",
+      "status": "pending",
+      "outputPath": "docs/UI_MICROCOPY.md"
+    },
+    "X-02": {
+      "phase": "nonarticle",
+      "title": "Write the Newsletter Welcome Sequence (5 emails)",
+      "type": "document",
+      "status": "pending",
+      "outputPath": "docs/NEWSLETTER_WELCOME_SEQUENCE.md"
+    },
+    "X-03": {
+      "phase": "nonarticle",
+      "title": "Write 30 LinkedIn Posts",
+      "type": "document",
+      "status": "pending",
+      "outputPath": "docs/30_LINKEDIN_POSTS.md"
+    },
+    "X-04": {
+      "phase": "nonarticle",
+      "title": "Generate OG Image Descriptions",
+      "type": "document",
+      "status": "pending",
+      "outputPath": "docs/OG_IMAGE_BRIEFS.md"
+    },
+    "X-05": {
+      "phase": "nonarticle",
+      "title": "Build the Internal Linking Map",
+      "type": "document",
+      "status": "pending",
+      "outputPath": "docs/INTERNAL_LINKING_MAP.md"
+    }
+  },
+  "phaseProgress": {
+    "foundation": {
+      "completed": 1,
+      "total": 5
+    },
+    "phase1": {
+      "completed": 0,
+      "total": 10
+    },
+    "phase2": {
+      "completed": 0,
+      "total": 5
+    },
+    "phase3": {
+      "completed": 0,
+      "total": 10
+    },
+    "phase4": {
+      "completed": 0,
+      "total": 10
+    },
+    "phase5": {
+      "completed": 0,
+      "total": 10
+    },
+    "phase6": {
+      "completed": 0,
+      "total": 10
+    },
+    "phase7": {
+      "completed": 0,
+      "total": 5
+    },
+    "phase8": {
+      "completed": 0,
+      "total": 10
+    },
+    "phase9": {
+      "completed": 0,
+      "total": 10
+    },
+    "phase10": {
+      "completed": 0,
+      "total": 10
+    },
+    "phase11": {
+      "completed": 0,
+      "total": 2
+    },
+    "phase12": {
+      "completed": 0,
+      "total": 8
+    },
+    "nonarticle": {
+      "completed": 0,
+      "total": 5
+    }
+  }
+}
