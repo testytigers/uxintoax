@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-03T22:11:30.601266",
+  "lastUpdated": "2026-06-03T22:37:41.134072",
   "currentPhase": "phase1",
-  "currentTask": "A-03",
+  "currentTask": "A-05",
   "totalTasks": 113,
-  "completedCount": 8,
+  "completedCount": 10,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -75,15 +75,17 @@
       "phase": "phase1",
       "title": "What Does an AX Designer Actually Do? (Role Breakdown)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-04-what-does-an-ax-designer-do.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-04-what-does-an-ax-designer-do.mdx",
+      "completedAt": "2026-06-03T22:37:41.134072"
     },
     "A-05": {
       "phase": "phase1",
       "title": "Is UX Design Being Replaced by AI? The Honest Answer",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-05-is-ux-design-being-replaced-by-ai.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-05-is-ux-design-being-replaced-by-ai.mdx",
+      "completedAt": "2026-06-03T22:37:41.134072"
     },
     "A-06": {
       "phase": "phase1",
@@ -792,7 +794,7 @@
       "total": 5
     },
     "phase1": {
-      "completed": 3,
+      "completed": 5,
       "total": 10
     },
     "phase2": {
