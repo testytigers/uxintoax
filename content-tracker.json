@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-03T22:37:41.134072",
+  "lastUpdated": "2026-06-03T22:46:41.012095",
   "currentPhase": "phase1",
-  "currentTask": "A-05",
+  "currentTask": "A-07",
   "totalTasks": 113,
-  "completedCount": 10,
+  "completedCount": 12,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -91,15 +91,17 @@
       "phase": "phase1",
       "title": "What is Prompt Design? And Why UX Designers Should Care",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-06-what-is-prompt-design.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-06-what-is-prompt-design.mdx",
+      "completedAt": "2026-06-03T22:46:41.012095"
     },
     "A-07": {
       "phase": "phase1",
       "title": "What is Conversation Design? A Guide for UX Designers",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-07-what-is-conversation-design.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-07-what-is-conversation-design.mdx",
+      "completedAt": "2026-06-03T22:46:41.012095"
     },
     "A-08": {
       "phase": "phase1",
@@ -794,7 +796,7 @@
       "total": 5
     },
     "phase1": {
-      "completed": 5,
+      "completed": 7,
       "total": 10
     },
     "phase2": {
