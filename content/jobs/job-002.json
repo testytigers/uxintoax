@@ -1,37 +1,41 @@
 {
   "id": "job-002",
-  "title": "AX Designer — Conversational AI",
-  "company": "Meridian Systems",
-  "location": "San Francisco, CA (Hybrid — 2 days/week)",
+  "title": "AX Designer — Agent Experience",
+  "company": "Meridian Health",
+  "companyDescription": "Meridian Health is a FAANG-adjacent health tech company at a major tech campus. We build AI-powered diagnostic and patient engagement tools. 2,000+ employees, publicly traded.",
+  "location": "Hybrid — Redwood City, CA",
   "workType": "hybrid",
   "experienceLevel": "mid",
   "roleType": "ax-designer",
-  "salary": "$130,000–$160,000",
-  "skills": ["Conversation Design", "Prompt Design", "User Research", "Interaction Design", "AI Products", "Prototyping", "Design Systems"],
-  "description": "Meridian Systems builds enterprise AI assistants for customer support teams. Our agents handle complex support requests by pulling data from multiple systems, reasoning through solutions, and delivering natural-language responses. We're hiring an AX Designer to own the experience layer for these agents.",
+  "salary": "$155,000–$195,000 + RSU",
+  "skills": ["AX Design", "Agent Behavior Design", "Conversation Design", "Accessibility", "UX Research", "Prototyping", "Figma", "Trust Design"],
+  "description": "Meridian Health is building AI tools that help patients manage chronic conditions and doctors make faster, more accurate diagnoses. Our agents don't just answer questions — they analyze patient data, suggest treatment pathways, and proactively alert clinicians to potential issues.\n\nWe're creating a new role: AX Designer. This person will design how doctors, nurses, and patients interact with our AI diagnostic agent. You'll define the agent's behavior, design the conversation model, create trust signals for high-stakes medical decisions, and ensure every interaction meets the highest accessibility standards.\n\nThis is a unique opportunity to define the AX discipline at scale. You'll work with our clinical advisors, ML team, and design leadership to create standards for AI interaction design that will influence products used by millions of patients.",
   "responsibilities": [
-    "Design the conversational experience for our enterprise AI assistant — including tone, pacing, escalation patterns, and error recovery",
-    "Define agent behavior guidelines: when the agent should ask clarifying questions, when to deliver partial results, and when to escalate",
-    "Create prompt templates and output quality rubrics for our agent team",
-    "Conduct conversation audits — analyzing agent-user interactions to identify patterns, failures, and opportunities",
-    "Collaborate with product and engineering to ship agent experience improvements on a weekly cadence",
-    "Mentor junior designers on AX design principles and AI product thinking"
+    "Design the interaction model for our AI diagnostic agent, including how it presents findings, handles uncertainty, and escalates to human review",
+    "Define agent behavior specifications: decision trees, confidence thresholds, and escalation rules",
+    "Create conversation flows that help clinicians understand and trust the agent's recommendations",
+    "Design trust signals appropriate for healthcare: transparency indicators, explanation formats, and audit trails",
+    "Conduct usability research with clinicians to validate agent designs and iterate based on feedback",
+    "Develop and document AX design patterns for our product team",
+    "Ensure all AI interactions meet WCAG 2.2 AA accessibility standards"
   ],
   "requirements": [
-    "3+ years of UX or interaction design experience, with hands-on work on AI or conversational products",
-    "Deep understanding of conversation design principles — turn-taking, error recovery, tone management, and escalation",
-    "Experience designing for AI uncertainty — users need to know when the agent is confident vs. guessing",
-    "Proficiency with Figma, prototyping, and research tools",
-    "Ability to write clear, structured prompt instructions and evaluation criteria",
-    "Comfortable working in a fast-paced environment where agent behavior is iterated weekly"
+    "4+ years of UX design experience, with exposure to AI/ML product design",
+    "Strong understanding of conversation design and interaction design principles",
+    "Experience designing for high-stakes or regulated environments (healthcare, finance, legal)",
+    "Portfolio demonstrating complex system design and interaction modeling",
+    "Understanding of accessibility requirements and inclusive design practices",
+    "Ability to collaborate with non-design stakeholders (clinicians, ML engineers, product managers)",
+    "Proficiency in Figma, prototyping tools, and design documentation"
   ],
   "niceToHave": [
-    "Published conversation design patterns or frameworks",
-    "Experience with enterprise B2B SaaS products",
-    "Understanding of NLU/LLM capabilities and limitations",
-    "Background in customer support or experience design"
+    "Experience in healthcare or life sciences design",
+    "Background in clinical or medical workflow design",
+    "Understanding of how AI/ML models make decisions and their limitations",
+    "Experience with design systems at enterprise scale",
+    "Publications or presentations on AI interaction design"
   ],
-  "applyUrl": "https://meridian-systems.com/careers/ax-designer",
+  "applyUrl": "https://meridianhealth.com/careers/ax-designer",
   "postedAt": "2025-06-02",
-  "featured": false
+  "featured": true
 }

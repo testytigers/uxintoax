@@ -2,36 +2,41 @@
   "id": "job-005",
   "title": "Conversational Designer / Prompt UX Designer",
   "company": "Narrative AI",
-  "location": "Remote",
+  "companyDescription": "Narrative AI is a bootstrapped startup building AI writing tools for content creators and marketers. Revenue: $2M ARR. Team of 12. Fully remote, distributed across 8 countries.",
+  "location": "Remote (Global)",
   "workType": "remote",
   "experienceLevel": "mid",
   "roleType": "conversational-designer",
-  "salary": "$110,000–$140,000",
-  "skills": ["Conversation Design", "Prompt Design", "UX Writing", "Interaction Design", "AI Products", "Prototyping", "Tone & Voice", "User Research"],
-  "description": "Narrative AI is building conversational AI agents for mental wellness — empathetic AI companions that can have meaningful, supportive conversations with users. We need a Conversational Designer / Prompt UX Designer who understands how to design for emotional intelligence, trust, and safety in AI conversations.",
+  "salary": "$100,000–$140,000",
+  "skills": ["Conversation Design", "Prompt Design", "UX Writing", "AI Product Design", "Figma", "User Research", "Prototyping", "Content Strategy"],
+  "description": "Narrative AI builds AI writing tools that help content creators produce blog posts, social media content, and marketing copy. Our product isn't just a text generator — it's a collaborative writing partner that understands your brand voice, adapts to your audience, and iterates based on your feedback.\n\nWe need a conversational designer who can design the dialogue between our users and our AI writing assistant. How does the assistant understand intent? How does it ask clarifying questions? How does it present drafts and handle edits? How does it learn and adapt to individual user preferences over time?\n\nThis role is equal parts conversation design, prompt design, and UX writing. You'll shape every word the AI produces and every interaction a user has with it. It's the most creative, most impactful role in our company.\n\nAs an early team member, you'll have significant influence on product direction, company culture, and the evolution of the conversational AI design discipline.",
   "responsibilities": [
-    "Design the conversational flow and tone for our wellness AI agents — ensuring conversations feel natural, empathetic, and safe",
-    "Write and iterate prompt templates that shape agent responses toward therapeutic best practices",
-    "Create tone and voice guidelines for our agents — defining personality, empathy level, and communication boundaries",
-    "Conduct conversation testing sessions to evaluate agent responses for appropriateness, helpfulness, and emotional resonance",
-    "Collaborate with clinical advisors to ensure agent conversations align with evidence-based wellness practices",
-    "Build a conversation pattern library — reusable dialogue templates for common scenarios (stress, anxiety, goal-setting, etc.)"
+    "Design the conversation model for our AI writing assistant — how it asks questions, presents drafts, incorporates feedback, and learns from user corrections",
+    "Write and iterate on the prompts, constraints, and examples that shape the AI's writing behavior and style adaptation",
+    "Craft every piece of UX copy: system messages, error states, empty states, onboarding flows, and in-context explanations",
+    "Create conversation flow diagrams and prototype test them with real users",
+    "Research how content creators currently use AI tools, identify pain points, and design better interaction models",
+    "Develop conversation design guidelines and prompt design patterns for our growing team",
+    "Collaborate with engineering to implement conversation features and iterate based on usage data",
+    "Contribute to the broader conversation design community through public writing and speaking"
   ],
   "requirements": [
-    "3+ years of conversation design, UX writing, or interaction design experience",
-    "Strong portfolio of conversational products — chatbots, voice assistants, or AI companions",
-    "Deep understanding of conversation design principles — pacing, empathy, escalation, and boundary-setting",
-    "Excellent writing skills — you can craft conversational microcopy that feels human",
-    "Understanding of AI limitations — you know where agents succeed and where they break down",
-    "Sensitive to ethical considerations in AI design — especially around mental health and vulnerable users"
+    "3+ years of conversation design or UX writing experience, preferably in AI products",
+    "Strong writing skills — you can write clear, concise, on-brand copy in any tone",
+    "Understanding of prompt design and how to write effective instructions for LLMs",
+    "Experience prototyping and testing conversations (diagrams, scripts, Figma, or dedicated conversation design tools)",
+    "Ability to think systemically — how does a conversation flow change when the AI is uncertain? When it disagrees? When it needs to escalate?",
+    "Self-starter who can work independently in a small, distributed team",
+    "Portfolio or samples of conversation designs, prompt templates, or UX writing"
   ],
-  "niceTo_have": [
-    "Background in counseling, psychology, or healthcare (not required but a strong plus)",
-    "Experience with therapeutic conversation frameworks (CBT, motivational interviewing, etc.)",
-    "Published work on conversational AI or UX writing",
-    "Experience designing for safety-critical AI applications"
+  "niceTo-have": [
+    "Experience designing for creative or professional workflows (writing, design, coding)",
+    "Background in linguistics, communications, or related field",
+    "Experience with prompt engineering or LLM behavior design",
+    "Public writing about conversation design, prompt design, or AI UX",
+    "Experience working in a startup environment"
   ],
-  "applyUrl": "https://narrative-ai.com/careers/conversational-designer",
-  "postedAt": "2025-06-02",
+  "applyUrl": "https://narrativeai.com/careers/conversational-designer",
+  "postedAt": "2025-06-03",
   "featured": false
 }

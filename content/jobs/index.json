@@ -1,0 +1,10 @@
+{
+  "totalJobs": 5,
+  "jobs": [
+    {"id": "job-001", "title": "Senior UX Designer (AI/ML Products)", "company": "Cognita Labs", "location": "Remote (US)", "workType": "remote", "experienceLevel": "senior", "postedAt": "2025-06-01", "featured": true},
+    {"id": "job-002", "title": "AX Designer — Agent Experience", "company": "Meridian Health", "location": "Hybrid — Redwood City, CA", "workType": "hybrid", "experienceLevel": "mid", "postedAt": "2025-06-02", "featured": true},
+    {"id": "job-003", "title": "UX Researcher — AI & Agent Products", "company": "Synthwave AI", "location": "Remote (Global)", "workType": "remote", "experienceLevel": "mid", "postedAt": "2025-06-03", "featured": false},
+    {"id": "job-004", "title": "Principal Product Designer — AI Financial Advisor", "company": "Vestralis", "location": "On-site — Austin, TX", "workType": "on-site", "experienceLevel": "principal", "postedAt": "2025-05-28", "featured": false},
+    {"id": "job-005", "title": "Conversational Designer / Prompt UX Designer", "company": "Narrative AI", "location": "Remote (Global)", "workType": "remote", "experienceLevel": "mid", "postedAt": "2025-06-03", "featured": false}
+  ]
+}

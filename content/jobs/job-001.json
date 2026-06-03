@@ -1,37 +1,41 @@
 {
   "id": "job-001",
-  "title": "Senior UX Designer — AI Products",
-  "company": "Axiom AI",
-  "location": "Remote",
+  "title": "Senior UX Designer (AI/ML Products)",
+  "company": "Cognita Labs",
+  "companyDescription": "Cognita Labs is a Series B AI startup building conversational AI tools for enterprise knowledge management. Backed by a16z and Sequoia. Team of 80, growing fast.",
+  "location": "Remote (US)",
   "workType": "remote",
   "experienceLevel": "senior",
   "roleType": "ux-designer",
-  "salary": "$140,000–$175,000",
-  "skills": ["Figma", "User Research", "Design Systems", "AI/ML Products", "Prototyping", "Conversation Design"],
-  "description": "Axiom AI is building autonomous planning agents that help operations teams manage complex workflows. We're looking for a senior UX designer who understands how to design for AI systems that act on their own — not just chatbots, but agents that plan, execute, and iterate toward goals.",
+  "salary": "$145,000–$185,000 + 0.1–0.3% equity",
+  "skills": ["AI Product Design", "Conversation Design", "Figma", "User Research", "Design Systems", "Prompt Design", "Prototyping"],
+  "description": "Cognita Labs is building the future of enterprise knowledge work. Our AI assistant helps teams search, summarize, and connect organizational knowledge — but instead of just returning search results, it understands context, reasons through problems, and proactively surfaces relevant information.\n\nWe're looking for a senior UX designer who can design the interface and interaction model for our AI-powered knowledge assistant. This isn't a chatbot — it's an autonomous agent that reads, understands, and acts on your company's documents. You'll design how users interact with that agent, how it communicates its reasoning, and how it handles uncertainty.\n\nYou'll work closely with our ML engineers and product team to design agent behavior, conversation flows, and trust signals. You'll own the full design process from research to prototype to shipped feature.",
   "responsibilities": [
-    "Design the end-to-end experience for our autonomous planning agent — from task input to result delivery",
-    "Define agent behavior specifications: what the agent should do, how it should handle uncertainty, and how it should communicate progress",
-    "Create and test prototype interactions for agent-driven workflows",
-    "Conduct user research with operations teams to understand decision points and trust boundaries",
-    "Collaborate with ML engineers to ensure agent outputs align with design expectations",
-    "Build and maintain the AI experience patterns library for our team"
+    "Design the end-to-end user experience for our AI knowledge assistant, including conversation flows, output presentation, and agent reasoning transparency",
+    "Create and iterate on agent behavior specifications — prompts, constraints, and decision frameworks that shape how the AI responds",
+    "Conduct user research with enterprise customers to understand how they interact with AI tools and what trust signals they need",
+    "Build high-fidelity prototypes in Figma and test them with real users",
+    "Define and maintain the design system for AI interactions, including patterns for confidence indicators, error states, and clarification requests",
+    "Collaborate with engineering to ship features and iterate based on user data",
+    "Mentor junior designers and contribute to hiring"
   ],
   "requirements": [
-    "5+ years of UX design experience, with at least 2 years focused on AI or data products",
-    "Strong portfolio demonstrating systems thinking and interaction design",
-    "Experience designing for uncertainty — showing users when a system is unsure or making probabilistic judgments",
-    "Familiarity with agent-based architectures and how LLMs power autonomous behavior",
-    "Proficiency with Figma, prototyping tools, and user research methods",
-    "Excellent written communication — you can translate complex design decisions into clear specifications"
+    "5+ years of product design experience, with at least 2 years designing AI/ML-powered products",
+    "Strong portfolio demonstrating complex interaction design, not just visual design",
+    "Experience designing conversation flows and understanding of conversation design principles",
+    "Proficiency in Figma and prototyping tools",
+    "Ability to translate ML capabilities into user-centered design decisions",
+    "Excellent communication skills — you can explain design rationale to engineers and business stakeholders",
+    "Self-starter who thrives in a fast-moving startup environment"
   ],
   "niceToHave": [
-    "Experience with prompt design or AI evaluation frameworks",
-    "Background in operations, logistics, or workflow automation products",
-    "Published writing or talks about AI/UX design",
-    "Experience with agentic AI tools (LangChain, LlamaIndex, AutoGen)"
+    "Experience with prompt design or AI agent behavior specification",
+    "Background in UX research with AI products",
+    "Experience designing for enterprise/B2B products",
+    "Technical background or ability to read technical documentation",
+    "Public writing or speaking about AI design"
   ],
-  "applyUrl": "https://axiom-ai.com/careers/senior-ux-designer",
+  "applyUrl": "https://cognitalabs.com/careers/senior-ux-designer-ai",
   "postedAt": "2025-06-01",
   "featured": true
 }

@@ -1,37 +1,42 @@
 {
   "id": "job-004",
-  "title": "Principal Product Designer — AI Platform",
-  "company": "Citrine Analytics",
-  "location": "New York, NY (On-site)",
+  "title": "Principal Product Designer — AI Financial Advisor",
+  "company": "Vestralis",
+  "companyDescription": "Vestralis is a fintech company building an AI-powered financial advisory platform. Series C ($200M raised). 500+ employees. Headquarters in Austin, TX. Growing rapidly.",
+  "location": "On-site — Austin, TX",
   "workType": "on-site",
   "experienceLevel": "principal",
   "roleType": "product-designer",
-  "salary": "$180,000–$230,000",
-  "skills": ["Design Systems", "AI Products", "Data Visualization", "Prototyping", "Stakeholder Management", "UX Strategy", "Research", "Interaction Design"],
-  "description": "Citrine Analytics builds AI-powered data analytics platforms for Fortune 500 companies. Our flagship product uses natural language queries to let non-technical users generate complex data analyses through a conversational interface. We're hiring a Principal Product Designer to own the design vision for our AI analytics experience.",
+  "salary": "$190,000–$240,000 + 0.1–0.3% equity",
+  "skills": ["AI Product Design", "Design Systems", "Fintech", "Trust Design", "Accessibility", "Data Visualization", "Conversation Design", "Stakeholder Management"],
+  "description": "Vestralis is building a financial advisory platform powered by AI agents. Our agent doesn't just give investment recommendations — it understands a user's financial situation, goals, risk tolerance, and life circumstances. It explains its reasoning in plain language, adapts to changing market conditions, and proactively suggests portfolio adjustments.\n\nWe're looking for a principal product designer to lead the design of this AI agent's user experience. This is a high-visibility role at a company where AI is the product, not a feature. You'll define how our financial agent communicates, builds trust, handles complex scenarios, and presents investment advice — all in a highly regulated industry.\n\nYou'll lead a team of 3 designers, work directly with our CTO and CEO, and set the design standard for every AI interaction at the company. This is a rare opportunity to define the UX of AI financial advisory at scale.",
   "responsibilities": [
-    "Define the end-to-end design strategy for our AI analytics platform — from natural language query input to data visualization output",
-    "Lead the design of agent-driven analytics workflows: how the agent interprets ambiguous requests, asks clarifying questions, and presents findings",
-    "Establish design standards for AI-generated content — how to visually differentiate between AI-suggested and user-initiated actions",
-    "Mentor a team of 4-6 designers, providing guidance on AI product design patterns and best practices",
-    "Present design proposals to executive leadership and align cross-functional stakeholders on the product vision",
-    "Own the AI experience layer of our design system — defining patterns for agent responses, uncertainty states, and recommendation interfaces"
+    "Lead the design of Vestralis's AI financial advisor, from conversation flows and explanation models to portfolio presentation and risk communication",
+    "Define the agent's behavior framework: how it gathers information, makes recommendations, explains reasoning, and handles edge cases",
+    "Design trust and transparency patterns for financial advice — including disclosure of limitations, confidence levels, and regulatory compliance",
+    "Build and evolve the design system for AI financial interactions, ensuring consistency and accessibility across all touchpoints",
+    "Lead a team of 3 designers, providing mentorship, design critique, and strategic direction",
+    "Partner with compliance, legal, and ML teams to ensure designs meet regulatory requirements while maintaining excellent UX",
+    "Conduct design research with actual investors to understand decision-making patterns, trust signals, and anxiety points around AI financial advice",
+    "Present design strategy and outcomes to the executive team and board"
   ],
   "requirements": [
-    "8+ years of product design experience, with 3+ years specifically on AI or data-heavy products",
-    "Demonstrated experience leading design strategy at a principal/IC7 level",
-    "Deep understanding of AI/ML capabilities — you've shipped AI features and understand the engineering constraints",
-    "Strong portfolio showing data visualization, complex workflow design, and AI product experience",
-    "Executive presence — you can present design thinking to C-suite audiences",
-    "Experience building and mentoring design teams"
+    "8+ years of product design experience, with at least 3 years leading design teams",
+    "Proven track record shipping complex AI/ML products at scale",
+    "Experience in fintech or regulated industries (finance, healthcare, legal)",
+    "Deep understanding of conversation design, trust design, and transparency patterns for AI",
+    "Exceptional design systems thinking — you can create systems that scale across product lines",
+    "Strong stakeholder management skills — you can influence executives, engineers, and compliance teams",
+    "Portfolio demonstrating end-to-end product design leadership"
   ],
-  "niceTo_have": [
-    "Background in analytics, business intelligence, or data products",
-    "Experience with natural language interfaces and conversational UX",
-    "Published writing or speaking on AI design",
-    "MBA or quantitative background (not required but valued in our org)"
+  "niceTo-have": [
+    "Background in finance or financial planning",
+    "Experience designing for high-stakes decision making",
+    "Understanding of financial regulation (SEC, FINRA, etc.)",
+    "Experience with data visualization for complex financial data",
+    "Public speaking or thought leadership in AI design"
   ],
-  "applyUrl": "https://citrine-analytics.com/careers/principal-product-designer",
-  "postedAt": "2025-06-03",
-  "featured": true
+  "applyUrl": "https://vestralis.com/careers/principal-product-designer",
+  "postedAt": "2025-05-28",
+  "featured": false
 }

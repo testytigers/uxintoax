@@ -1,37 +1,41 @@
 {
   "id": "job-003",
-  "title": "UX Researcher — AI/Agent Products",
-  "company": "Relay Labs",
-  "location": "Remote",
+  "title": "UX Researcher — AI & Agent Products",
+  "company": "Synthwave AI",
+  "companyDescription": "Synthwave AI is building autonomous research and analysis agents for enterprise customers. Seed-stage (raised $12M from top-tier VCs). Team of 35.",
+  "location": "Remote (Global)",
   "workType": "remote",
   "experienceLevel": "mid",
   "roleType": "ux-researcher",
-  "salary": "$120,000–$150,000",
-  "skills": ["User Research", "AI Products", "Conversation Analysis", "Usability Testing", "Data Analysis", "Prototype Testing", "Interviews", "Surveys"],
-  "description": "Relay Labs is building real-time AI voice agents for live customer interactions — think AI-powered call centers that actually sound natural. We need a UX researcher who understands how to evaluate and improve AI-driven conversations at scale.",
+  "salary": "$125,000–$160,000 + 0.05–0.15% equity",
+  "skills": ["UX Research", "AI Product Research", "Conversation Analysis", "Usability Testing", "Data Analysis", "Qualitative Research", "Quantitative Research", "Prototyping"],
+  "description": "Synthwave AI builds autonomous research agents that help companies gather market intelligence, analyze competitors, and synthesize industry trends. Our agents can run multi-step research workflows — searching databases, analyzing documents, interviewing simulated personas — and produce comprehensive reports.\n\nWe need a UX researcher who can study how humans interact with autonomous research agents. How do users trust the agent's findings? How do they verify results? How do they intervene when the agent goes off track? Your research will shape the design of our agent's transparency features, its explanation model, and its error recovery patterns.\n\nThis is a rare opportunity to define research methods for a new category: research on AI agents themselves. You'll develop new evaluation frameworks, run experiments on agent-human collaboration, and provide the data that drives our design decisions.",
   "responsibilities": [
-    "Design and execute research studies for our AI voice agents — including conversation quality assessments, trust calibration studies, and task completion analysis",
-    "Develop evaluation frameworks for measuring agent performance from a user experience perspective",
-    "Conduct user interviews and moderated testing sessions to understand how people interact with autonomous voice agents",
-    "Analyze conversation logs to identify patterns in agent failures, user frustrations, and trust signals",
-    "Partner with the product team to translate research findings into specific agent behavior improvements",
-    "Build a research repository of AI conversation insights that the entire team can reference"
+    "Design and execute research studies on how users interact with autonomous AI agents, including usability tests, interviews, and diary studies",
+    "Develop evaluation frameworks for agent behavior — measuring trust, transparency, and user control",
+    "Analyze conversation logs to identify patterns in agent failures, user corrections, and trust-building moments",
+    "Run A/B tests on different agent explanations, confidence indicators, and error recovery strategies",
+    "Conduct competitive research on AI agent products and their UX approaches",
+    "Present research findings to the product and design team, with actionable recommendations",
+    "Build a research repository and knowledge base for ongoing agent UX insights"
   ],
   "requirements": [
-    "3+ years of UX research experience, with at least 1 year focused on AI, voice, or conversational products",
-    "Strong qualitative and quantitative research skills — you're comfortable with both interviews and conversation analytics",
-    "Experience evaluating AI systems — understanding of concepts like hallucination rates, response quality, and user trust",
-    "Excellent analytical thinking — you can synthesize patterns from large sets of conversation data",
-    "Clear, actionable communication — you translate research findings into concrete design recommendations",
-    "Familiarity with research tools (Dovetail, UserTesting, Lookback) and conversation analytics platforms"
+    "3+ years of UX research experience, preferably in AI/ML products",
+    "Strong mixed-methods background — comfortable with both qualitative and quantitative research",
+    "Experience designing and analyzing conversations between humans and AI systems",
+    "Ability to design studies that evaluate non-deterministic, autonomous systems",
+    "Proficiency in research tools (UserTesting, Dovetail, Lookback, etc.)",
+    "Strong analytical skills — you can turn qualitative insights into quantitative signals",
+    "Excellent written communication — research reports that people actually read"
   ],
-  "niceToHave": [
-    "Background in linguistics, human-computer interaction, or cognitive science",
-    "Experience with voice UX research specifically",
-    "Familiarity with LLM evaluation methods and metrics",
-    "Publications or presentations on AI/UX research"
+  "niceTo-have": [
+    "Experience researching AI agents or autonomous systems",
+    "Background in human-computer interaction or cognitive science",
+    "Statistical analysis skills (R, Python, or similar)",
+    "Experience with AI/ML model evaluation or red-teaming",
+    "Publications in HCI or UX research venues"
   ],
-  "applyUrl": "https://relay-labs.com/careers/ux-researcher-ai",
-  "postedAt": "2025-06-01",
+  "applyUrl": "https://synthwave.ai/careers/ux-researcher-ai",
+  "postedAt": "2025-06-03",
   "featured": false
 }
