@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-03T22:46:41.012095",
+  "lastUpdated": "2026-06-03T23:12:04.059016",
   "currentPhase": "phase1",
-  "currentTask": "A-07",
+  "currentTask": "A-09",
   "totalTasks": 113,
-  "completedCount": 12,
+  "completedCount": 14,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -107,15 +107,17 @@
       "phase": "phase1",
       "title": "UX Designer vs AI Product Designer: What's the Difference?",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-08-ux-designer-vs-ai-product-designer.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-08-ux-designer-vs-ai-product-designer.mdx",
+      "completedAt": "2026-06-03T23:12:04.059016"
     },
     "A-09": {
       "phase": "phase1",
       "title": "What is Human-Agent Interaction? The Designer's Guide",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-09-human-agent-interaction.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-09-human-agent-interaction.mdx",
+      "completedAt": "2026-06-03T23:12:04.059016"
     },
     "A-10": {
       "phase": "phase1",
@@ -796,7 +798,7 @@
       "total": 5
     },
     "phase1": {
-      "completed": 7,
+      "completed": 9,
       "total": 10
     },
     "phase2": {
