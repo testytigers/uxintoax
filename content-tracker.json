@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T01:05:14.434588",
-  "currentPhase": "phase2",
-  "currentTask": "A-13",
+  "lastUpdated": "2026-06-04T01:18:46.716600",
+  "currentPhase": "phase3",
+  "currentTask": "A-16",
   "totalTasks": 113,
-  "completedCount": 17,
+  "completedCount": 19,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -156,15 +156,19 @@
       "phase": "phase2",
       "title": "Top UX Design Skills Employers Want in 2025 (Data Analysis)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-14-top-ux-skills-employers-want.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-14-top-ux-design-skills-employers-want-2025.mdx",
+      "completedAt": "2026-06-04T01:18:46.716600",
+      "wordCount": 2000
     },
     "A-15": {
       "phase": "phase2",
       "title": "The Future of UX Design: 10 Predictions for 2025-2030",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-15-future-of-ux-design.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-15-future-of-ux-design-10-predictions-2025.mdx",
+      "completedAt": "2026-06-04T01:18:46.716600",
+      "wordCount": 2500
     },
     "A-16": {
       "phase": "phase3",
