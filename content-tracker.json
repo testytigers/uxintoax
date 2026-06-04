@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T23:21:48.011179",
+  "lastUpdated": "2026-06-04T23:31:28.728864",
   "currentPhase": "phase4",
   "currentTask": "A-70",
   "totalTasks": 113,
-  "completedCount": 85,
+  "completedCount": 90,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -761,36 +761,46 @@
       "phase": "phase10",
       "title": "10 UX Design Trends That AI Is Accelerating in 2025",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-81-ux-trends-ai-2025.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-81-ux-trends-ai-2025.mdx",
+      "completedAt": "2026-06-04T23:31:28.728864",
+      "wordCount": 1500
     },
     "A-82": {
       "phase": "phase10",
       "title": "15 AI Prompts Every UX Designer Should Save",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-82-ai-prompts-ux.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-82-ai-prompts-ux.mdx",
+      "completedAt": "2026-06-04T23:31:28.728864",
+      "wordCount": 1500
     },
     "A-83": {
       "phase": "phase10",
       "title": "10 Signs Your UX Career Is Ready for the AX Transition",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-83-signs-ax-ready.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-83-signs-ax-ready.mdx",
+      "completedAt": "2026-06-04T23:31:28.728864",
+      "wordCount": 1500
     },
     "A-84": {
       "phase": "phase10",
       "title": "7 UX Design Patterns That Break in AI Interfaces",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-84-ux-patterns-break-ai.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-84-ux-patterns-break-ai.mdx",
+      "completedAt": "2026-06-04T23:31:28.728864",
+      "wordCount": 1500
     },
     "A-85": {
       "phase": "phase10",
       "title": "12 Free AI Tools UX Designers Should Know About",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-85-free-ai-tools-ux.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-85-free-ai-tools-ux.mdx",
+      "completedAt": "2026-06-04T23:31:28.728864",
+      "wordCount": 1500
     },
     "A-86": {
       "phase": "phase10",
