@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T10:36:16.470879",
+  "lastUpdated": "2026-06-04T11:10:09.542590",
   "currentPhase": "phase4",
-  "currentTask": "A-13",
+  "currentTask": "A-32",
   "totalTasks": 113,
-  "completedCount": 35,
+  "completedCount": 37,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -311,15 +311,19 @@
       "phase": "phase4",
       "title": "How to Get Your First AX Design Job With No Experience",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-31-first-ax-job-no-experience.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-31-first-ax-job-no-experience.mdx",
+      "completedAt": "2026-06-04T11:04:48.972066",
+      "wordCount": 1100
     },
     "A-32": {
       "phase": "phase4",
       "title": "Remote UX Design Jobs: Where to Find the Best Ones in 2025",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-32-remote-ux-jobs.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-32-remote-ux-jobs.mdx",
+      "completedAt": "2026-06-04T11:10:09.542576",
+      "wordCount": 1800
     },
     "A-33": {
       "phase": "phase4",
