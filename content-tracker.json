@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T01:31:43.003176",
+  "lastUpdated": "2026-06-04T01:35:20.412476",
   "currentPhase": "phase3",
-  "currentTask": "A-19",
+  "currentTask": "A-20",
   "totalTasks": 113,
-  "completedCount": 22,
+  "completedCount": 23,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -199,10 +199,12 @@
     },
     "A-19": {
       "phase": "phase3",
-      "title": "Framer AI vs Webflow: Which is Better for Designers?",
+      "title": "Framer AI vs Webflow: Which is Better for Designers in 2025?",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-19-framer-vs-webflow.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-19-framer-ai-vs-webflow-which-is-better-for-designers.mdx",
+      "completedAt": "2026-06-04T01:35:20.412476",
+      "wordCount": 1400
     },
     "A-20": {
       "phase": "phase3",
