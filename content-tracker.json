@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T02:23:48.832764",
+  "lastUpdated": "2026-06-04T02:27:25.010534",
   "currentPhase": "phase4",
-  "currentTask": "A-26",
+  "currentTask": "A-27",
   "totalTasks": 113,
-  "completedCount": 29,
+  "completedCount": 30,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -264,8 +264,10 @@
       "phase": "phase4",
       "title": "AX Designer Salary in 2025: What You Can Actually Earn",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-26-ax-designer-salary.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-26-ax-designer-salary-2025-guide.mdx",
+      "completedAt": "2026-06-04T02:27:25.010534",
+      "wordCount": 1200
     },
     "A-27": {
       "phase": "phase4",
