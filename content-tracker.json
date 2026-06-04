@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T02:41:42.870452",
+  "lastUpdated": "2026-06-04T03:04:16.094793",
   "currentPhase": "phase4",
-  "currentTask": "A-30",
+  "currentTask": "A-31",
   "totalTasks": 113,
-  "completedCount": 33,
+  "completedCount": 34,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -298,10 +298,12 @@
     },
     "A-30": {
       "phase": "phase4",
-      "title": "UX Designer Interview Questions for AI Companies",
+      "title": "UX Designer Interview Questions for AI Companies (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-30-interview-questions-ai.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-30-ux-designer-interview-questions-ai-companies.mdx",
+      "completedAt": "2026-06-04T03:04:16.094793",
+      "wordCount": 1500
     },
     "A-31": {
       "phase": "phase4",
