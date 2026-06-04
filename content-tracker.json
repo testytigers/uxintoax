@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T02:39:08.369205",
+  "lastUpdated": "2026-06-04T02:41:42.870452",
   "currentPhase": "phase4",
-  "currentTask": "A-29",
+  "currentTask": "A-30",
   "totalTasks": 113,
-  "completedCount": 32,
+  "completedCount": 33,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -291,8 +291,10 @@
       "phase": "phase4",
       "title": "How to Write a LinkedIn Profile as an AX Designer",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-29-linkedin-profile-ax.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-29-linkedin-profile-ax-designer.mdx",
+      "completedAt": "2026-06-04T02:41:42.870452",
+      "wordCount": 1200
     },
     "A-30": {
       "phase": "phase4",
