@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T02:08:06.537020",
+  "lastUpdated": "2026-06-04T02:20:43.555540",
   "currentPhase": "phase3",
-  "currentTask": "A-24",
+  "currentTask": "A-25",
   "totalTasks": 113,
-  "completedCount": 27,
+  "completedCount": 28,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -244,10 +244,12 @@
     },
     "A-24": {
       "phase": "phase3",
-      "title": "ChatGPT for UX Research: Prompts That Actually Work",
+      "title": "ChatGPT for UX Research: Prompts That Actually Work (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-24-chatgpt-for-ux-research.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-24-chatgpt-for-ux-research-prompts.mdx",
+      "completedAt": "2026-06-04T02:20:43.555540",
+      "wordCount": 1300
     },
     "A-25": {
       "phase": "phase3",
