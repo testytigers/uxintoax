@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T02:27:25.010534",
+  "lastUpdated": "2026-06-04T02:36:32.386099",
   "currentPhase": "phase4",
-  "currentTask": "A-27",
+  "currentTask": "A-28",
   "totalTasks": 113,
-  "completedCount": 30,
+  "completedCount": 31,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -271,10 +271,12 @@
     },
     "A-27": {
       "phase": "phase4",
-      "title": "UX Designer Salary in the AI Era",
+      "title": "UX Designer Salary in the AI Era: How Much More Can You Earn?",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-27-ux-salary-ai-era.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-27-ux-designer-salary-ai-era.mdx",
+      "completedAt": "2026-06-04T02:36:32.386099",
+      "wordCount": 1100
     },
     "A-28": {
       "phase": "phase4",
