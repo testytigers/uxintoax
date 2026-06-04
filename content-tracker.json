@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T01:35:20.412476",
+  "lastUpdated": "2026-06-04T01:38:46.428858",
   "currentPhase": "phase3",
-  "currentTask": "A-20",
+  "currentTask": "A-21",
   "totalTasks": 113,
-  "completedCount": 23,
+  "completedCount": 24,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -208,10 +208,12 @@
     },
     "A-20": {
       "phase": "phase3",
-      "title": "Maze vs UserTesting: AI-Powered Research Tools Compared",
+      "title": "Maze vs UserTesting: AI-Powered Research Tools Compared (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-20-maze-vs-usertesting.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-20-maze-vs-usertesting-ai-powered-research-tools.mdx",
+      "completedAt": "2026-06-04T01:38:46.428858",
+      "wordCount": 1300
     },
     "A-21": {
       "phase": "phase3",
