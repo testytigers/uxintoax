@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T23:31:28.728864",
+  "lastUpdated": "2026-06-04T23:39:29.357019",
   "currentPhase": "phase4",
   "currentTask": "A-70",
   "totalTasks": 113,
-  "completedCount": 90,
+  "completedCount": 95,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -806,36 +806,46 @@
       "phase": "phase10",
       "title": "8 AX Design Projects to Add to Your Portfolio",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-86-ax-portfolio-projects.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-86-ax-portfolio-projects.mdx",
+      "completedAt": "2026-06-04T23:39:29.357019",
+      "wordCount": 1500
     },
     "A-87": {
       "phase": "phase10",
       "title": "10 Must-Read Books for UX Designers Entering the AI Era",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-87-ux-ai-books.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-87-ux-ai-books.mdx",
+      "completedAt": "2026-06-04T23:39:29.357019",
+      "wordCount": 1500
     },
     "A-88": {
       "phase": "phase10",
       "title": "15 UX Design YouTube Channels Worth Your Time in 2025",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-88-ux-youtube-channels.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-88-ux-youtube-channels.mdx",
+      "completedAt": "2026-06-04T23:39:29.357019",
+      "wordCount": 1500
     },
     "A-89": {
       "phase": "phase10",
       "title": "10 UX Design Newsletters Every AX Designer Should Subscribe To",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-89-ux-newsletters.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-89-ux-newsletters.mdx",
+      "completedAt": "2026-06-04T23:39:29.357019",
+      "wordCount": 1500
     },
     "A-90": {
       "phase": "phase10",
       "title": "7 Ways AI Is Making UX Research Faster",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-90-ai-ux-research-faster.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-90-ai-ux-research-faster.mdx",
+      "completedAt": "2026-06-04T23:39:29.357019",
+      "wordCount": 1500
     },
     "A-91": {
       "phase": "phase11",
