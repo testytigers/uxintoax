@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T22:51:47.887829",
+  "lastUpdated": "2026-06-04T23:21:48.011179",
   "currentPhase": "phase4",
   "currentTask": "A-70",
   "totalTasks": 113,
-  "completedCount": 76,
+  "completedCount": 85,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -673,71 +673,89 @@
       "type": "mdx",
       "status": "completed",
       "outputPath": "src/pages/a-71-ux-vs-product-designer.mdx",
-      "completedAt": "2026-06-04T22:51:47.887821",
+      "completedAt": "2026-06-04T23:21:48.011179",
       "wordCount": 1500
     },
     "A-72": {
       "phase": "phase9",
       "title": "Figma vs Framer in 2025",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-72-figma-vs-framer.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-72-figma-vs-framer.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-73": {
       "phase": "phase9",
       "title": "ChatGPT vs Claude for UX Work",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-73-chatgpt-vs-claude-ux.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-73-chatgpt-vs-claude-ux.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-74": {
       "phase": "phase9",
       "title": "UX Bootcamp vs Self-Taught for AX",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-74-bootcamp-vs-self-taught.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-74-bootcamp-vs-self-taught.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-75": {
       "phase": "phase9",
       "title": "Figma vs Sketch vs Adobe XD in 2025?",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-75-figma-vs-sketch-vs-xd.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-75-figma-vs-sketch-vs-xd.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-76": {
       "phase": "phase9",
       "title": "UX Research vs UX Design: Which Career Has More AI Upside?",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-76-research-vs-design.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-76-research-vs-design.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-77": {
       "phase": "phase9",
       "title": "Agency UX vs In-House UX",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-77-agency-vs-inhouse.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-77-agency-vs-inhouse.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-78": {
       "phase": "phase9",
       "title": "Startup UX vs Enterprise UX",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-78-startup-vs-enterprise.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-78-startup-vs-enterprise.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-79": {
       "phase": "phase9",
       "title": "Notion vs Linear for UX Team PM",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-79-notion-vs-linear.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-79-notion-vs-linear.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-80": {
       "phase": "phase9",
       "title": "Maze vs Hotjar vs FullStory",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-80-maze-vs-hotjar-vs-fullstory.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-80-maze-vs-hotjar-vs-fullstory.mdx",
+      "completedAt": "2026-06-04T23:21:48.011179",
+      "wordCount": 1500
     },
     "A-81": {
       "phase": "phase10",
