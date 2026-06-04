@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T02:04:36.056752",
+  "lastUpdated": "2026-06-04T02:08:06.537020",
   "currentPhase": "phase3",
-  "currentTask": "A-23",
+  "currentTask": "A-24",
   "totalTasks": 113,
-  "completedCount": 26,
+  "completedCount": 27,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -235,10 +235,12 @@
     },
     "A-23": {
       "phase": "phase3",
-      "title": "Uizard Review: Can AI Really Generate Wireframes?",
+      "title": "Uizard Review: Can AI Really Generate Wireframes? (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-23-uizard-review.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-23-uizard-ai-wireframe-generation-review.mdx",
+      "completedAt": "2026-06-04T02:08:06.537020",
+      "wordCount": 1300
     },
     "A-24": {
       "phase": "phase3",
