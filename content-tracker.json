@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T23:39:29.357019",
+  "lastUpdated": "2026-06-04T23:52:00.585645",
   "currentPhase": "phase4",
   "currentTask": "A-70",
   "totalTasks": 113,
-  "completedCount": 95,
+  "completedCount": 105,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -851,71 +851,91 @@
       "phase": "phase11",
       "title": "Weekly Digest Template",
       "type": "template",
-      "status": "pending",
-      "outputPath": "docs/WEEKLY_DIGEST_TEMPLATE.md"
+      "status": "completed",
+      "outputPath": "docs/WEEKLY_DIGEST_TEMPLATE.md",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-92": {
       "phase": "phase11",
       "title": "First 5 Weekly Digests",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/digests/"
+      "status": "completed",
+      "outputPath": "src/pages/digests/",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-93": {
       "phase": "phase12",
       "title": "How to Charge More as a UX Designer by Adding AI",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-93-charge-more-ai.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-93-charge-more-ai.mdx",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-94": {
       "phase": "phase12",
       "title": "The AX Design Course Buyer's Guide",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-94-ax-course-buyers-guide.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-94-ax-course-buyers-guide.mdx",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-95": {
       "phase": "phase12",
       "title": "How to Build an AI UX Audit Service",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-95-ux-audit-service.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-95-ux-audit-service.mdx",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-96": {
       "phase": "phase12",
       "title": "The AX Design Community",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-96-ax-community.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-96-ax-community.mdx",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-97": {
       "phase": "phase12",
       "title": "How to Run an AI Design Sprint in 5 Days",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-97-ai-design-sprint.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-97-ai-design-sprint.mdx",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-98": {
       "phase": "phase12",
       "title": "Building a Personal Brand as an AX Designer",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-98-personal-brand-ax.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-98-personal-brand-ax.mdx",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-99": {
       "phase": "phase12",
       "title": "How to Use AI to Do Your UX Work Faster",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-99-ai-ux-workflow.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-99-ai-ux-workflow.mdx",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "A-100": {
       "phase": "phase12",
       "title": "The uxintoax.com Manifesto: Why We Built This Platform",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-100-uxintoax-manifesto.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-100-uxintoax-manifesto.mdx",
+      "completedAt": "2026-06-04T23:52:00.585645",
+      "wordCount": 1500
     },
     "X-01": {
       "phase": "nonarticle",
