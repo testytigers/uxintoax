@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T12:31:36.890559",
+  "lastUpdated": "2026-06-04T13:41:56.073139",
   "currentPhase": "phase4",
-  "currentTask": "A-35",
+  "currentTask": "A-45",
   "totalTasks": 113,
-  "completedCount": 40,
+  "completedCount": 50,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -356,71 +356,91 @@
       "phase": "phase5",
       "title": "How ChatGPT's Interface Is Actually Terrible UX",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-36-chatgpt-ux-teardown.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-36-chatgpt-ux-teardown.mdx",
+      "completedAt": "2026-06-04T13:01:57.983229",
+      "wordCount": 1400
     },
     "A-37": {
       "phase": "phase5",
       "title": "Perplexity AI UX Teardown",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-37-perplexity-ux-teardown.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-37-perplexity-ux-teardown.mdx",
+      "completedAt": "2026-06-04T13:01:57.983241",
+      "wordCount": 1500
     },
     "A-38": {
       "phase": "phase5",
       "title": "Claude vs ChatGPT: A UX Designer's Interface Comparison",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-38-claude-vs-chatgpt-ux.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-38-claude-vs-chatgpt-ux.mdx",
+      "completedAt": "2026-06-04T13:01:57.983245",
+      "wordCount": 1300
     },
     "A-39": {
       "phase": "phase5",
       "title": "How Notion AI Was Integrated Without Ruining the UX",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-39-notion-ai-ux-case-study.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-39-notion-ai-ux-case-study.mdx",
+      "completedAt": "2026-06-04T13:01:57.983247",
+      "wordCount": 1200
     },
     "A-40": {
       "phase": "phase5",
       "title": "Apple Intelligence UX: What Designers Can Learn",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-40-apple-intelligence-ux.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-40-apple-intelligence-ux.mdx",
+      "completedAt": "2026-06-04T13:41:56.073128",
+      "wordCount": 1300
     },
     "A-41": {
       "phase": "phase5",
       "title": "Linear UI Teardown: Designed for Humans, Not Algorithms",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-41-linear-ui-teardown.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-41-linear-ui-teardown.mdx",
+      "completedAt": "2026-06-04T13:41:56.073133",
+      "wordCount": 1200
     },
     "A-42": {
       "phase": "phase5",
       "title": "Designing an AI Onboarding Flow: 5 Real Examples",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-42-ai-onboarding-flow.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-42-ai-onboarding-flow.mdx",
+      "completedAt": "2026-06-04T13:41:56.073135",
+      "wordCount": 1400
     },
     "A-43": {
       "phase": "phase5",
       "title": "Error Messages in AI Products: Who Gets It Right",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-43-ai-error-messages-ux.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-43-ai-error-messages-ux.mdx",
+      "completedAt": "2026-06-04T13:41:56.073136",
+      "wordCount": 1100
     },
     "A-44": {
       "phase": "phase5",
       "title": "How Figma Handles AI Feature Integration",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-44-figma-ai-ux-audit.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-44-figma-ai-ux-audit.mdx",
+      "completedAt": "2026-06-04T13:41:56.073137",
+      "wordCount": 1000
     },
     "A-45": {
       "phase": "phase5",
       "title": "Copilot in Microsoft 365: A UX Designer's Review",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-45-microsoft-copilot-ux-review.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-45-microsoft-copilot-ux-review.mdx",
+      "completedAt": "2026-06-04T13:41:56.073138",
+      "wordCount": 1000
     },
     "A-46": {
       "phase": "phase6",
