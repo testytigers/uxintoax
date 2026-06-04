@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T00:59:31.233199",
+  "lastUpdated": "2026-06-04T01:05:14.434588",
   "currentPhase": "phase2",
-  "currentTask": "A-12",
+  "currentTask": "A-13",
   "totalTasks": 113,
-  "completedCount": 16,
+  "completedCount": 17,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -140,8 +140,10 @@
       "phase": "phase2",
       "title": "The Complete UX to AX Career Transition Guide (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-12-ux-to-ax-career-transition.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-12-ux-to-ax-career-transition-guide.mdx",
+      "completedAt": "2026-06-04T01:05:14.434588",
+      "wordCount": 3000
     },
     "A-13": {
       "phase": "phase2",
