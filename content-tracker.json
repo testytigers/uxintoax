@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T02:36:32.386099",
+  "lastUpdated": "2026-06-04T02:39:08.369205",
   "currentPhase": "phase4",
-  "currentTask": "A-28",
+  "currentTask": "A-29",
   "totalTasks": 113,
-  "completedCount": 31,
+  "completedCount": 32,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -282,8 +282,10 @@
       "phase": "phase4",
       "title": "How to Redesign Your UX Portfolio for the AX Era",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-28-ux-portfolio-ax-era.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-28-redesign-ux-portfolio-ax-era.mdx",
+      "completedAt": "2026-06-04T02:39:08.369205",
+      "wordCount": 1400
     },
     "A-29": {
       "phase": "phase4",
