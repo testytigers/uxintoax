@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T02:20:43.555540",
-  "currentPhase": "phase3",
-  "currentTask": "A-25",
+  "lastUpdated": "2026-06-04T02:23:48.832764",
+  "currentPhase": "phase4",
+  "currentTask": "A-26",
   "totalTasks": 113,
-  "completedCount": 28,
+  "completedCount": 29,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -253,10 +253,12 @@
     },
     "A-25": {
       "phase": "phase3",
-      "title": "Attention Insight Review: AI Heatmaps Before You Launch",
+      "title": "Attention Insight Review: AI Heatmaps Before You Launch (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-25-attention-insight-review.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-25-attention-insight-ai-heatmaps-review.mdx",
+      "completedAt": "2026-06-04T02:23:48.832764",
+      "wordCount": 1200
     },
     "A-26": {
       "phase": "phase4",
