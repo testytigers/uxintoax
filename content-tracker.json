@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T01:18:46.716600",
+  "lastUpdated": "2026-06-04T01:22:40.845461",
   "currentPhase": "phase3",
-  "currentTask": "A-16",
+  "currentTask": "A-17",
   "totalTasks": 113,
-  "completedCount": 19,
+  "completedCount": 20,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -172,10 +172,12 @@
     },
     "A-16": {
       "phase": "phase3",
-      "title": "Figma AI Features Review",
+      "title": "Figma AI: The UX Designer's Honest Review (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-16-figma-ai-review.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-16-figma-ai-features-review-2025.mdx",
+      "completedAt": "2026-06-04T01:22:40.845461",
+      "wordCount": 1400
     },
     "A-17": {
       "phase": "phase3",
