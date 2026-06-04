@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T14:14:57.792548",
+  "lastUpdated": "2026-06-04T14:29:54.588846",
   "currentPhase": "phase4",
-  "currentTask": "A-55",
+  "currentTask": "A-60",
   "totalTasks": 113,
-  "completedCount": 60,
+  "completedCount": 65,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -536,36 +536,46 @@
       "phase": "phase7",
       "title": "UX Design Job Market Report: Q2 2025 Data Analysis",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-56-job-market-q2-2025.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-56-job-market-q2-2025.mdx",
+      "completedAt": "2026-06-04T14:29:54.588836",
+      "wordCount": 1000
     },
     "A-57": {
       "phase": "phase7",
       "title": "Most In-Demand UX Skills: June 2025 Data",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-57-top-skills-june-2025.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-57-top-skills-june-2025.mdx",
+      "completedAt": "2026-06-04T14:29:54.588841",
+      "wordCount": 900
     },
     "A-58": {
       "phase": "phase7",
       "title": "AX Designer Salary Report 2025: Global Data",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-58-ax-salary-global-2025.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-58-ax-salary-global-2025.mdx",
+      "completedAt": "2026-06-04T14:29:54.588842",
+      "wordCount": 700
     },
     "A-59": {
       "phase": "phase7",
       "title": "Remote UX Jobs vs On-Site: What the Data Says in 2025",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-59-remote-vs-onsite-data.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-59-remote-vs-onsite-data.mdx",
+      "completedAt": "2026-06-04T14:29:54.588843",
+      "wordCount": 800
     },
     "A-60": {
       "phase": "phase7",
       "title": "Which Cities Are Hiring the Most UX Designers?",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-60-ux-jobs-by-city.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-60-ux-jobs-by-city.mdx",
+      "completedAt": "2026-06-04T14:29:54.588844",
+      "wordCount": 800
     },
     "A-61": {
       "phase": "phase8",
