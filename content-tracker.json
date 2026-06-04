@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T01:22:40.845461",
+  "lastUpdated": "2026-06-04T01:26:56.768006",
   "currentPhase": "phase3",
-  "currentTask": "A-17",
+  "currentTask": "A-18",
   "totalTasks": 113,
-  "completedCount": 20,
+  "completedCount": 21,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -181,10 +181,12 @@
     },
     "A-17": {
       "phase": "phase3",
-      "title": "Claude for UX Designers: Complete Guide",
+      "title": "Claude for UX Designers: The Complete Guide (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-17-claude-for-ux-designers.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-17-claude-for-ux-designers-complete-guide.mdx",
+      "completedAt": "2026-06-04T01:26:56.768006",
+      "wordCount": 1500
     },
     "A-18": {
       "phase": "phase3",
