@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T01:26:56.768006",
+  "lastUpdated": "2026-06-04T01:31:43.003176",
   "currentPhase": "phase3",
-  "currentTask": "A-18",
+  "currentTask": "A-19",
   "totalTasks": 113,
-  "completedCount": 21,
+  "completedCount": 22,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -190,10 +190,12 @@
     },
     "A-18": {
       "phase": "phase3",
-      "title": "Midjourney for UX: How to Use It in Real Projects",
+      "title": "Midjourney for UX: How to Use It in Real Projects (2025)",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-18-midjourney-for-ux.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-18-midjourney-for-ux-how-to-use-it-in-real-projects.mdx",
+      "completedAt": "2026-06-04T01:31:43.003176",
+      "wordCount": 1400
     },
     "A-19": {
       "phase": "phase3",
