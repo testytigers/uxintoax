@@ -1,10 +1,10 @@
 {
   "project": "uxintoax.com",
-  "lastUpdated": "2026-06-04T23:52:00.585645",
+  "lastUpdated": "2026-06-05T00:33:45.788073",
   "currentPhase": "phase4",
   "currentTask": "A-70",
   "totalTasks": 113,
-  "completedCount": 105,
+  "completedCount": 113,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -941,36 +941,41 @@
       "phase": "nonarticle",
       "title": "Write all UI microcopy",
       "type": "document",
-      "status": "pending",
-      "outputPath": "docs/UI_MICROCOPY.md"
+      "status": "completed",
+      "outputPath": "docs/UI_MICROCOPY.md",
+      "completedAt": "2026-06-05T00:33:45.788073"
     },
     "X-02": {
       "phase": "nonarticle",
       "title": "Write the Newsletter Welcome Sequence (5 emails)",
       "type": "document",
-      "status": "pending",
-      "outputPath": "docs/NEWSLETTER_WELCOME_SEQUENCE.md"
+      "status": "completed",
+      "outputPath": "docs/NEWSLETTER_WELCOME_SEQUENCE.md",
+      "completedAt": "2026-06-05T00:33:45.788073"
     },
     "X-03": {
       "phase": "nonarticle",
       "title": "Write 30 LinkedIn Posts",
       "type": "document",
-      "status": "pending",
-      "outputPath": "docs/30_LINKEDIN_POSTS.md"
+      "status": "completed",
+      "outputPath": "docs/30_LINKEDIN_POSTS.md",
+      "completedAt": "2026-06-05T00:33:45.788073"
     },
     "X-04": {
       "phase": "nonarticle",
       "title": "Generate OG Image Descriptions",
       "type": "document",
-      "status": "pending",
-      "outputPath": "docs/OG_IMAGE_BRIEFS.md"
+      "status": "completed",
+      "outputPath": "docs/OG_IMAGE_BRIEFS.md",
+      "completedAt": "2026-06-05T00:33:45.788073"
     },
     "X-05": {
       "phase": "nonarticle",
       "title": "Build the Internal Linking Map",
       "type": "document",
-      "status": "pending",
-      "outputPath": "docs/INTERNAL_LINKING_MAP.md"
+      "status": "completed",
+      "outputPath": "docs/INTERNAL_LINKING_MAP.md",
+      "completedAt": "2026-06-05T00:33:45.788073"
     }
   },
   "phaseProgress": {
