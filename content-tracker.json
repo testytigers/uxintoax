@@ -4,7 +4,7 @@
   "currentPhase": "phase4",
   "currentTask": "A-32",
   "totalTasks": 113,
-  "completedCount": 37,
+  "completedCount": 40,
   "inProgress": null,
   "tasks": {
     "F-01": {
@@ -329,22 +329,28 @@
       "phase": "phase4",
       "title": "From Junior to Senior UX Designer in the AI Era",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-33-junior-to-senior-ux.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-33-junior-to-senior-ux.mdx",
+      "completedAt": "2026-06-04T11:15:00",
+      "wordCount": 2100
     },
     "A-34": {
       "phase": "phase4",
       "title": "Freelance UX Designer in 2025: How AI Changes Everything",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-34-freelance-ux-ai.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-34-freelance-ux-ai.mdx",
+      "completedAt": "2026-06-04T11:15:00",
+      "wordCount": 1800
     },
     "A-35": {
       "phase": "phase4",
       "title": "UX Designer CV Template for AI-Era Jobs",
       "type": "mdx",
-      "status": "pending",
-      "outputPath": "src/pages/a-35-ux-cv-template.mdx"
+      "status": "completed",
+      "outputPath": "src/pages/a-35-ux-cv-template.mdx",
+      "completedAt": "2026-06-04T11:15:00",
+      "wordCount": 1600
     },
     "A-36": {
       "phase": "phase5",
